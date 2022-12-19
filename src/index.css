@@ -1,0 +1,15 @@
+* {
+  font-family: "Barlow";
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: rgb(92, 56, 56)
+}
+
+p {
+  color: rgba(134, 99, 99, 0.712)
+}
+
+body {
+  background-color: whitesmoke;
+}
